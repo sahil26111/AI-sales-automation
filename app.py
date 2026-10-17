@@ -1,4 +1,3 @@
-!pip -q install -U google-genai
 import os
 from getpass import getpass
 
